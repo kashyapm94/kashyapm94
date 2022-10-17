@@ -1,8 +1,6 @@
 <h1 align="center"> Hi there 👋, I'm Kashyap </h1>
 <h3 align="center"> I am a Python Developer currently living in Germany </h3>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kashyapm94)
-
 ## ⚡ Technologies
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
   ![FastAPI](https://img.shields.io/badge/-FastAPI-teal?style=plastic&logo=fastapi&logoColor=white)
