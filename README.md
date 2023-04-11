@@ -23,15 +23,5 @@
 
 ## :trophy: My Github Stats:
 
-<!--
-![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=kashyapm94&count_private=true&show_icons=true&theme=radical)
-![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=kashyapm94&theme=radical&count_private=true)
--->
-<div>
-<a href="https://github-readme-stats.vercel.app/api?username=kashyapm94&theme=radical&count_private=true">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=kashyapm94&count_private=true&show_icons=true&theme=radical" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kashyapm94&hide=php&theme=radical&count_private=true">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashyapm94&theme=radical&count_private=true" />
-</a>
-</div>
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=kashyapm94&theme=algolia&show_icons=true&count_private=true)](https://github.com/kashyapm94)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=kashyapm94&show_icons=true&count_private=true)](https://github.com/kashyapm94)
