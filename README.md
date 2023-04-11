@@ -24,4 +24,3 @@
 ## :trophy: My Github Stats:
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=kashyapm94&theme=algolia&show_icons=true&count_private=true)](https://github.com/kashyapm94)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=kashyapm94&show_icons=true&count_private=true)](https://github.com/kashyapm94)
