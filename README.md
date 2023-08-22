@@ -28,4 +28,3 @@
 
 ## 💻 Currently working on:
 - Refactoring & integrating [findpapers](https://github.com/ChristianGerloff/findpapers) in the [Set you free](https://github.com/ChristianGerloff/set-you-free/tree/feature/findpapers-models) repository.
-- Refactoring the [nsepython](https://github.com/aeron7/nsepython) codebase.
