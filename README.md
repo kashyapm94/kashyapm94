@@ -28,3 +28,7 @@
 
 ## 💻 Currently working on:
 - Refactoring & integrating [findpapers](https://github.com/ChristianGerloff/findpapers) in the [Set you free](https://github.com/ChristianGerloff/set-you-free/tree/feature/findpapers-models) repository.
+
+## 🧑‍🎓 Studying:
+- Currently: [CS50’s Introduction to Computer Science](https://cs50.harvard.edu/x/2023/)
+- Next: [CS50's Introduction to Artificial Intelligence with Python](https://www.edx.org/learn/artificial-intelligence/harvard-university-cs50-s-introduction-to-artificial-intelligence-with-python)
