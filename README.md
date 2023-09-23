@@ -32,3 +32,6 @@
 ## 🧑‍🎓 Studying:
 - Currently: [CS50’s Introduction to Computer Science](https://cs50.harvard.edu/x/2023/)
 - Next: [CS50's Introduction to Artificial Intelligence with Python](https://www.edx.org/learn/artificial-intelligence/harvard-university-cs50-s-introduction-to-artificial-intelligence-with-python)
+
+## 📖Currently Reading:
+- [Robust Python](https://www.oreilly.com/library/view/robust-python/9781098100650/)
