@@ -4,8 +4,8 @@
 ## ⚡ Technologies
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws)
-  [![CDK](https://img.shields.io/badge/CDK-232F3E?style=for-the-badge&logo=amazon-aws)](https://github.com/aws/aws-cdk)
-  [![CDKTF](https://img.shields.io/badge/CDKTF-232F3E?style=for-the-badge&logo=amazon-aws)](https://github.com/aws/cdktf)
+  [![CDK](https://img.shields.io/badge/CDK-232F3E?style=for-the-badge&logo=amazon-aws)](https://aws.amazon.com/cdk/)
+  [![CDKTF](https://img.shields.io/badge/CDKTF-232F3E?style=for-the-badge&logo=amazon-aws)](https://developer.hashicorp.com/terraform/cdktf)
   ![FastAPI](https://img.shields.io/badge/-FastAPI-teal?style=for-the-badge&logo=fastapi&logoColor=white)
   ![Flask](https://img.shields.io/badge/-Flask-teal?style=for-the-badge&logo=flask&logoColor=white)
   ![Pandas](https://img.shields.io/badge/-Pandas-430098?style=for-the-badge&logo=pandas)
