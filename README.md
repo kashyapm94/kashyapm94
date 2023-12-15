@@ -3,11 +3,13 @@
 
 ## ⚡ Technologies
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws)
+  [![CDK](https://img.shields.io/badge/CDK-232F3E?style=for-the-badge&logo=amazon-aws)](https://github.com/aws/aws-cdk)
+  [![CDKTF](https://img.shields.io/badge/CDKTF-232F3E?style=for-the-badge&logo=amazon-aws)](https://github.com/aws/cdktf)
   ![FastAPI](https://img.shields.io/badge/-FastAPI-teal?style=for-the-badge&logo=fastapi&logoColor=white)
   ![Flask](https://img.shields.io/badge/-Flask-teal?style=for-the-badge&logo=flask&logoColor=white)
   ![Pandas](https://img.shields.io/badge/-Pandas-430098?style=for-the-badge&logo=pandas)
   ![Streamlit](https://img.shields.io/badge/-Streamlit-black?style=for-the-badge&logo=streamlit)
-  ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws)
   ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
   ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab)
@@ -28,10 +30,3 @@
 
 ## 💻 Currently working on:
 - Refactoring & integrating [findpapers](https://github.com/ChristianGerloff/findpapers) in the [Set you free](https://github.com/ChristianGerloff/set-you-free/tree/feature/findpapers-models) repository.
-
-## 🧑‍🎓 Studying:
-- Currently: [CS50’s Introduction to Computer Science](https://cs50.harvard.edu/x/2023/)
-- Next: [CS50's Introduction to Artificial Intelligence with Python](https://www.edx.org/learn/artificial-intelligence/harvard-university-cs50-s-introduction-to-artificial-intelligence-with-python)
-
-## 📖Currently Reading:
-- [Robust Python](https://www.oreilly.com/library/view/robust-python/9781098100650/)
