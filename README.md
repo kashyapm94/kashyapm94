@@ -27,5 +27,4 @@
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=kashyapm94&theme=algolia&show_icons=true&count_private=true)](https://github.com/kashyapm94)
 
 ## 💻 Currently working on:
-- Refactoring & integrating [findpapers](https://github.com/ChristianGerloff/findpapers) in the [Set you free](https://github.com/ChristianGerloff/set-you-free/tree/feature/findpapers-models) repository
 - Exploring the intersection of tech & geopolitics at [The RedLine Podcast](https://github.com/The-Red-Line-Podcast)
